@@ -26,5 +26,9 @@
     {   
         "package": "SimpleITK",
         "url": "https://github.com/Artur-man/SimpleITKRInstaller"
+    },
+    {   
+        "package": "opencv",
+        "url": "https://github.com/Artur-man/opencv"
     }
 ]
