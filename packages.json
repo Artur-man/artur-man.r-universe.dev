@@ -22,5 +22,9 @@
     {   
         "package": "ZarrDataFrame",
         "url": "https://github.com/Artur-man/ZarrDataFrame"
-    }  
+    },
+    {   
+        "package": "SimpleITK",
+        "url": "https://github.com/Artur-man/SimpleITKInstaller"
+    },
 ]
